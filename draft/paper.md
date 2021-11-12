@@ -1,4 +1,5 @@
 # Super Awesome Journal Article
+**Authors**: Me, myself, and I
 
 ## Abstract
 
