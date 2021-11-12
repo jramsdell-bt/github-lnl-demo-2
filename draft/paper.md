@@ -6,7 +6,7 @@ I hate adding abstracts, so I always add it last.
 
 ## Introduction
 
-This is where we introduce our super awesome concept. It's really great! You should just save us the trouble and give us a Nobel prize. It's just that good.
+This is where we introduce our super awesome concept. It's really great! You should just save us the trouble and give us a Nobel prize, **and a lot of money**. It's just that good.
 
 
 ## Background / Related Work
