@@ -5,7 +5,7 @@ Everyone hates writing abstracts. Personally, I save abstracts for last.
 
 ## Introduction
 
-This is where we introduce our super awesome concept. It's really great! You should just save us the trouble and give us a Noble prize now. It's just that good.
+This is where we introduce our super awesome concept. It's really great! You should just save us the trouble and give us a Noble prize now, **and lots of money**. It's just that good.
 
 ## Background / Related Work
 
