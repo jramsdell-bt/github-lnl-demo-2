@@ -1,7 +1,7 @@
 # Super Awesome Journal Article
 
 ## Abstract
-
+Everyone hates writing abstracts. Personally, I save abstracts for last. 
 
 ## Introduction
 
