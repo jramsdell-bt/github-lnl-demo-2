@@ -19,7 +19,7 @@ Who even reads this stuff, right? We just did things. Trust us.
 
 ## Results
 
-![ALT](./awesome.png)
+![ALT](awesome.png)
 
 
 ## Conclusion
