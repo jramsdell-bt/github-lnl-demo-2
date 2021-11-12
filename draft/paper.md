@@ -18,7 +18,7 @@ Well, we didn't want to read through other papers. After all, they're not as awe
 Who even reads this stuff, right? We just did things. Trust us.
 
 ## Results
-![alt text](/draft/awesome.png)
+![alt text](/images/awesome.png)
 
 
 ## Conclusion
