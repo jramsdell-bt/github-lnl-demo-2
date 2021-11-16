@@ -6,7 +6,7 @@ I hate writing abstracts, so I always save it for last.
 
 ## Introduction
 
-This is where we introduce our super awesome concept. It's really great! You should just save us the trouble and give us a **all the awards**. It's just that good.
+This is where we introduce our super awesome concept. It's really great! You should just save us the trouble and give us a **all the awards, and lots of money**. It's just that good.
 
 
 ## Background / Related Work
@@ -28,6 +28,6 @@ We don't need results. We know we're already right.
 We were right all along, obviously. Anyway, you can mail the Nobel prize to:
 
 ```
- 123 Made Up Street, ZZ 01234
+ 123 Made Up Street, ZZ 11234
 ```
 
